@@ -34,3 +34,8 @@ div {
   height: 450px;
   width: 50%;
 }
+#content {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #66ffff;
+}
