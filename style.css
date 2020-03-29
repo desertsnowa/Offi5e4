@@ -34,3 +34,9 @@ div {
   height: 450px;
   width: 50%;
 }
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
