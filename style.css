@@ -35,8 +35,3 @@ div {
   width: 50%;
   margin: auto;
 }
-#responsive {
-    display: inline-block;
-    position: relative;
-    width: 100%;
-}
